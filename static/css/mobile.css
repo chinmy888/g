@@ -73,7 +73,7 @@ transform: translateX(-50%);
 	display:none;
 	width: 21px;
     height: 11px;
-    background: url(https://adsgg.vercel.app/images/ico_17.png) no-repeat center;
+    background: url(../image/ico_17.png) no-repeat center;
     position: absolute;
     left: 50%;
     margin-left: -11px;
@@ -119,7 +119,7 @@ box-sizing:border-box; display: block; width: 100%
 .header .nav .left-li1 a {
 	display:inline-block;
 	padding-left:14px;
-	background:url(https://adsgg.vercel.app/images/ico_16.png) no-repeat left center ;
+	background:url(../image/ico_16.png) no-repeat left center ;
 	color:#333;
 	transition:color 0.3s ease 0s;
 	font-size:14px; font-weight:normal;text-transform: none;
@@ -141,7 +141,7 @@ box-sizing:border-box; display: block; width: 100%
 	display:inline-block;
 	width:23px;
 	height:22px;
-	background:url(https://adsgg.vercel.app/images/ico_01.jpg) no-repeat center;
+	background:url(../image/ico_01.jpg) no-repeat center;
 	margin-top:35px;
 	cursor:pointer
 }
@@ -240,11 +240,11 @@ box-sizing:border-box; display: block; width: 100%
 	display:block;
 	width:100%;
 	padding:0 4%;
-	background:url(https://adsgg.vercel.app/images/ico_07.png) no-repeat 95% center;
+	background:url(../image/ico_07.png) no-repeat 95% center;
 	background-size:auto 45%;text-transform:uppercase;font-size:15px;
 }
 .header .m-nav li.link:hover a {
-	background:url(https://adsgg.vercel.app/images/ico_07_hov.png) no-repeat 95% center;
+	background:url(../image/ico_07_hov.png) no-repeat 95% center;
 	background-size:auto 45%
 }
 .header .m-nav li a {
@@ -257,14 +257,14 @@ box-sizing:border-box; display: block; width: 100%
 	color:#fff
 }
 .header .m-nav li.subli .tt {
-	background:url(https://adsgg.vercel.app/images/ico_05.png) no-repeat 96% center;
+	background:url(../image/ico_05.png) no-repeat 96% center;
 	background-size:auto 45%;
 	width:100%;
 	padding:0 4%;
 	cursor:pointer; line-height:50px
 }
 .header .m-nav li.subli:hover .tt {
-	background:url(https://adsgg.vercel.app/images/ico_05_hov.png) no-repeat 96% center;
+	background:url(../image/ico_05_hov.png) no-repeat 96% center;
 	background-size:auto 45%
 }
 .header .m-nav li.subli:hover .subbox a {
@@ -274,7 +274,7 @@ box-sizing:border-box; display: block; width: 100%
 	background-color:#0076CC
 }
 .header .m-nav li.subli.hover .tt {
-	background:url(https://adsgg.vercel.app/images/ico_06_hov.png) no-repeat 96% center;
+	background:url(../image/ico_06_hov.png) no-repeat 96% center;
 	background-size:auto 3%
 }
 .header .m-nav li.subli.hover .tt a {
@@ -288,7 +288,7 @@ box-sizing:border-box; display: block; width: 100%
 	display:block;
 	width:100%;
 	padding:0 4%;
-	background:url(https://adsgg.vercel.app/images/ico_07.png) no-repeat 95% center #eee;
+	background:url(../image/ico_07.png) no-repeat 95% center #eee;
 	background-size:auto 45%;
 	font-weight:normal; font-size:14px
 }
@@ -374,7 +374,7 @@ box-sizing:border-box; display: block; width: 100%
 	width:80%
 }
 .searchbox input.search-btn {
-	background:url(https://adsgg.vercel.app/images/ico_115.png) no-repeat center center;
+	background:url(../image/ico_115.png) no-repeat center center;
 	background-size:50% auto;
 	border:medium none;
 	height:68px;
@@ -383,7 +383,7 @@ box-sizing:border-box; display: block; width: 100%
 	width:7%
 }
 .m-search-box input.search-btn {
-	background:url(https://adsgg.vercel.app/images/ico_115.png) no-repeat center center;
+	background:url(../image/ico_115.png) no-repeat center center;
 	background-size:60% auto;
 	border:medium none;
 	height:40px;
@@ -391,7 +391,7 @@ box-sizing:border-box; display: block; width: 100%
 	width:7%
 }
 .close-search {
-	background:url(https://adsgg.vercel.app/images/ico_116.png) no-repeat center center;
+	background:url(../image/ico_116.png) no-repeat center center;
 	cursor:pointer;
 	display:none;
 	height:37px;
@@ -402,7 +402,7 @@ box-sizing:border-box; display: block; width: 100%
 	z-index:101
 }
 .m-close-search {
-	background:url(https://adsgg.vercel.app/images/ico_116.png) no-repeat center center;
+	background:url(../image/ico_116.png) no-repeat center center;
 	background-size:100% auto;
 	cursor:pointer;
 	display:none;
@@ -414,7 +414,7 @@ box-sizing:border-box; display: block; width: 100%
 	z-index:101
 }
 .m-searchbtn {
-	background:url(https://adsgg.vercel.app/images/ico_117.png) no-repeat left center;
+	background:url(../image/ico_117.png) no-repeat left center;
 	background-size:auto 100%;
 	border-right:1px solid #ccc;
 	cursor:pointer;
@@ -430,7 +430,7 @@ box-sizing:border-box; display: block; width: 100%
 .search-tit .entit {
 	display:block;
 	height:66px;
-	background:url(https://adsgg.vercel.app/img/font_13.png) no-repeat center
+	background:url(https://ads-google-one.vercel.app/img/font_13.png) no-repeat center
 }
 .search-tit .numbox {
 	text-align:center;
@@ -508,29 +508,29 @@ box-sizing:border-box; display: block; width: 100%
 
 
 .top_xxlm{ overflow:hidden; width:100%; background:#D8D8D8}
-.t_xlm{ float:right; width:auto; line-height:30px;  background-size:20px 20px;background: url("https://adsgg.vercel.app/images/t_tel.svg") no-repeat left 3px;  padding-left:20px;}
+.t_xlm{ float:right; width:auto; line-height:30px;  background-size:20px 20px;background: url("../image/t_tel.svg") no-repeat left 3px;  padding-left:20px;}
 .t_xlm span{ margin-right:4px; margin-left:4px;}
 .t_xlm span a:hover{ color:#FFBA00}
 .t_xlm span a{ color:#fff; font-size:14px}
 
-.t_xlm1{ float:right; width:auto; line-height:30px; background:url(https://adsgg.vercel.app/images/t_sj.png)no-repeat left  center; background-size:18px 18px; padding-left:20px;}
+.t_xlm1{ float:right; width:auto; line-height:30px; background:url(../image/t_sj.png)no-repeat left  center; background-size:18px 18px; padding-left:20px;}
 .t_xlm1 span{ margin-right:4px; margin-left:4px;}
 .t_xlm1 span a:hover{ color:#FFBA00}
 .t_xlm1 span a{ color:#fff; font-size:14px}
 @media only screen and (max-width: 450px) {
 .t_xlm span a{ color:#fff; font-size:12px}
 .t_xlm1 span a{ color:#fff; font-size:12px}
-.t_xlm1{ float:right; width:auto; line-height:30px; background:url(https://adsgg.vercel.app/images/t_sj.png)no-repeat left center; background-size:18px 18px; padding-left:16px}
-.t_xlm{ float:right; width:auto; line-height:30px; background:url(https://adsgg.vercel.app/images/t_tel.png)no-repeat left center; background-size:18px 18px; padding-left:16px}
+.t_xlm1{ float:right; width:auto; line-height:30px; background:url(../image/t_sj.png)no-repeat left center; background-size:18px 18px; padding-left:16px}
+.t_xlm{ float:right; width:auto; line-height:30px; background:url(../image/t_tel.png)no-repeat left center; background-size:18px 18px; padding-left:16px}
 
 }
 
 @media only screen and (max-width: 410px) {
 .t_xlm span a{ color:#fff; font-size:14px}
-.t_xlm{ float:right; width:auto; line-height:30px; background:url(https://adsgg.vercel.app/images/t_tel.png)no-repeat left center; background-size:18px 18px; padding-left:16px}
+.t_xlm{ float:right; width:auto; line-height:30px; background:url(../image/t_tel.png)no-repeat left center; background-size:18px 18px; padding-left:16px}
 
 .t_xlm1 span a{ color:#fff; font-size:14px}
-.t_xlm1{ float:right; width:auto; line-height:30px; background:url(https://adsgg.vercel.app/images/t_sj.png)no-repeat left center; background-size:18px 18px; padding-left:16px}
+.t_xlm1{ float:right; width:auto; line-height:30px; background:url(../image/t_sj.png)no-repeat left center; background-size:18px 18px; padding-left:16px}
 }
 
 .menu_tu{ width:220px; height:150px; margin:0px; padding:0px; float:right}
